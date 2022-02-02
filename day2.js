@@ -29,3 +29,11 @@ let randomNumberRoundToFloor = Math.floor(numBtnZeroAndTen)
 console.log(randomNumberRoundToFloor);
 
 // Strings
+
+let name = ' Ratamon '
+console.log(name);
+
+console.log(name.trim());
+console.log(name);
+
+// Checking Data Types and Casting
