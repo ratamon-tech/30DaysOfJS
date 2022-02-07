@@ -67,6 +67,8 @@ console.log(challenge.substr(0, 2))
 
 
 // Check if the string contains a word Script using includes() method
+console.log(challenge.includes('Script'));
+
 // Split the string into an array using split() method
 // Split the string 30 Days Of JavaScript at the space using split() method
 // 'Facebook, Google, Microsoft, Apple, IBM, Oracle, Amazon' split the string at the comma and change it to an array.
