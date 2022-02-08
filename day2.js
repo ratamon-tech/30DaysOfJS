@@ -49,7 +49,9 @@ console.log(num);
 console.log(typeof numInt)
 */
 
-// Exercises:  Level1
+/*
+Exercises:  Level1
+*/
 
 // Declare a variable named challenge and assign it to an initial value '30 Days Of JavaScript'.
 const challenge = '30 Days Of JavaScript';
@@ -86,3 +88,18 @@ console.log(challenge.includes('Script'));
 // Use match() method to find all the a’s in 30 Days Of JavaScript
 // Use concat() and merge '30 Days of' and 'JavaScript' to a single string, '30 Days Of JavaScript'
 // Use repeat() method to print 30 Days Of JavaScript 2 times
+
+/*
+Exercises: Level 3
+*/
+
+/*
+1
+'Love is the best thing in this world.
+Some found their love and some are still looking for their love.'
+Count the number of word love in this sentence.
+*/
+
+const word3_1 = 'Love is the best thing in this world. Some found their love and some are still looking for their love.'
+let ans3_1 = word3_1.match(/love/gi)
+console.log(`ans3_1 : ${ans3_1}`);
