@@ -84,6 +84,9 @@ console.log(challenge.includes('Script'));
 // 18. Use lastIndexOf to find the position of the last occurrence of the word because in the following sentence:'You cannot end a sentence with because because because is a conjunction'
 // 19. Use search to find the position of the first occurrence of the word because in the following sentence:'You cannot end a sentence with because because because is a conjunction'
 // 20. Use trim() to remove any trailing whitespace at the beginning and the end of a string.E.g ' 30 Days Of JavaScript '.
+word20 = ' 30 Days Of JavaScript '
+console.log(`ans1-20 : [${word20.trim()}]`)
+
 // 21. Use startsWith() method with the string 30 Days Of JavaScript and make the result true
 // 22. Use endsWith() method with the string 30 Days Of JavaScript and make the result true
 // 23. Use match() method to find all the a’s in 30 Days Of JavaScript
