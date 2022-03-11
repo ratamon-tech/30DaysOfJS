@@ -2,6 +2,7 @@
 
 /*
 参考
+https://note.kiriukun.com/entry/20200313-interactive-cli-example-with-nodejs
 https://qiita.com/saba_can00/items/02ff28a16a0d312a5259
 https://lamarr.dev/ja/javascript/2020/04/06/01.html
 */
